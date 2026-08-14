@@ -1,0 +1,20 @@
+# Foreglow Theme - Base16 Scheme
+
+scheme: "Foreglow"
+author: "Foreglow"
+base00: "1A0505" # Background
+base01: "2D0A0A" # Lighter Background
+base02: "3D1212" # Selection
+base03: "5A1E1E" # Comments, Secondary Background
+base04: "4D1818" # Borders, Gutter
+base05: "F5E6DC" # Primary Foreground
+base06: "FFA07A" # Secondary Foreground
+base07: "C4A398" # Tertiary Foreground
+base08: "FF4444" # Error, Red
+base09: "FF8844" # Warning, Orange
+base0A: "FF7E67" # Number, Amber
+base0B: "E85D75" # Success, Green
+base0C: "E85D75" # Type, Cyan
+base0D: "E85D75" # Type, Cyan
+base0E: "FF6B8A" # Keyword, Magenta
+base0F: "FFB3C6" # Function, Pink

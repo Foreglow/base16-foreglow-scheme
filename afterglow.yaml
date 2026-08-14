@@ -1,0 +1,20 @@
+# Afterglow Theme - Base16 Scheme
+
+scheme: "Afterglow"
+author: "Foreglow"
+base00: "F4EEE1" # Background
+base01: "ECE5D5" # Lighter Background
+base02: "E6D6C1" # Selection
+base03: "DFC2AA" # Comments, Secondary Background
+base04: "CDAEA2" # Borders, Gutter
+base05: "24163B" # Primary Foreground
+base06: "4D3781" # Secondary Foreground
+base07: "574979" # Tertiary Foreground
+base08: "B12531" # Error, Red
+base09: "A25410" # Warning, Orange
+base0A: "955F0F" # Number, Amber
+base0B: "22775B" # Success, Green
+base0C: "1D7187" # Type, Cyan
+base0D: "1D7187" # Type, Cyan
+base0E: "8930A6" # Keyword, Magenta
+base0F: "AE296B" # Function, Pink
