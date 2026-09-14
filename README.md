@@ -1,4 +1,6 @@
-# Foreglow Base16 Scheme
+<p align="center"><img width="320" alt="foreglow-logo" src="https://github.com/user-attachments/assets/5b0f629b-9800-4c97-b23b-fa3f22681ea4" /></p>
+
+<h3 align="center">Foreglow Base16 Scheme</h3>
 
 Base16 YAML scheme for the Foreglow twilight-inspired theme.
 
